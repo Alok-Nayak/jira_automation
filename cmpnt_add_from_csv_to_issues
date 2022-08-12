@@ -5,6 +5,8 @@ import io
 import csv
 
 # auth = HTTPBasicAuth("email@example.com", "<api_token>")
+# Here authorizing using bearer token(Personal Acess Token)
+
 jira_url= "http://jira.alok.com:8080"
 project_id="AN"
 #from csv
